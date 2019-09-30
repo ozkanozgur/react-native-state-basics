@@ -24,7 +24,7 @@ const navigator = createStackNavigator(
     Password: PasswordScreen
   },
   {
-    initialRouteName: 'Password',
+    initialRouteName: 'Home',
     defaultNavigationOptions: {
       title: 'App'
     }
