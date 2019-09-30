@@ -17,6 +17,26 @@ const HomeScreen = ({navigation}) => {
         onPress={ () => { navigation.navigate('Image'); }} 
         title="Go to Image Demo" 
       />
+      <Button 
+        onPress={ () => { navigation.navigate('Counter'); }} 
+        title="Go to Counter Demo" 
+      />
+      <Button 
+        onPress={ () => { navigation.navigate('Color'); }} 
+        title="Go to Color Demo" 
+      />
+      <Button 
+        onPress={ () => { navigation.navigate('Square'); }} 
+        title="Go to Square Demo (State Basics)" 
+      />
+      <Button 
+        onPress={ () => { navigation.navigate('SquareV2'); }} 
+        title="Go to Square Demo (State Basics V2)" 
+      />
+      <Button 
+        onPress={ () => { navigation.navigate('Text'); }} 
+        title="Go to Text Demo (State Basics About Input and Text)" 
+      />
     </View>
   );
 };
