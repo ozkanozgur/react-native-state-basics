@@ -14,5 +14,6 @@ SquareScreen: You can find how to use multiple 'useState '<br>
 SquareScreenV2: You can find how to use 'useReducer'<br>
 TextScreen: You can find how to use 'useState' for synchronizely update Text component from TextInput component.<br>
 PasswordScreen: Youcan find how to use 'useReducer' for syncronizely show error message from TextInput component.<br>
+Inside this repository has React Native Basics repository also.<br>
 <br>
 Good luck.<br>
